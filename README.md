@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm A passionate frontend engineer from Iran Mohammadreza Khorsand</h1>
+<h1 align="center">Hi 👋, I'm Mohammadreza A passionate frontend engineer from Iran Mohammadreza Khorsand</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadreza0110&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadreza0110" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadreza0110&theme=" alt="mohammadreza0110" /></a> </p>
@@ -28,22 +28,22 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadreza0110&layout=compact&theme=" alt=mohammadreza0110 />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadreza0110&langs_count=8&theme=radical" alt=mohammadreza0110 />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammadreza0110&show_icons=true&locale=en&theme=" alt="mohammadreza0110" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammadreza0110&show_icons=true&locale=en&theme=radical" alt="mohammadreza0110" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadreza0110&theme=" alt="mohammadreza0110" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadreza0110&theme=radical" alt="mohammadreza0110" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/mohammadreza0110">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohammadreza0110&theme=radical" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohammadreza0110&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohammadreza0110&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohammadreza0110&theme=radical" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohammadreza0110&theme=radical" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohammadreza0110&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadreza0110&theme=radical" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadreza0110&theme=2077" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadreza0110&theme=react"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadreza0110&theme=2077"/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
